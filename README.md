@@ -1,4 +1,4 @@
-<img src="https://github.com/zakaria-alx/AirBnB_clone_v4/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
+<img src="https://github.com/llorugwe/AirBnB_clone_v4/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
 # AirBnB Clone: Phase # 4
 Web dynamic with JQuery
@@ -68,7 +68,7 @@ All the web dynamic Flask scripts, HTML templates and Javascript scripts are in 
   * __bash:__ ShellCheck 0.3.3
   * __javascript__: semistandard
 
-<img src="https://github.com/zakaria-alx/AirBnB_clone_v4/blob/master/dev/hbnb_step5.png" />
+<img src="https://github.com/llorugwe/AirBnB_clone_v4/blob/master/dev/hbnb_step5.png" />
 
 ## Setup
 
